@@ -1,2 +1,2 @@
-# skit-gulp
-basic gulp/twig starting project for html/css/js
+# starterkit
+Basic empty gulp/twig starter project for html/css/js
